@@ -1,0 +1,19 @@
+
+body
+{
+font-family:"segoe ui light" ;
+
+}
+
+.col-md-4 , h1
+{
+    display: none;
+}
+
+
+section
+{
+    width: 10px;
+    height: 10px;
+}
+
